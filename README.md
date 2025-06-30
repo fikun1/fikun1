@@ -31,7 +31,7 @@ I'm an undergraduate student passionate about cybersecurity, cloud technologies,
 </p>
 ---
 
-###🧠Certifications
+🧠Certifications
 - PCEP -30-02
 - Aws Certified Cloud Practitioner
 - Aws Solutions Architect Associate
