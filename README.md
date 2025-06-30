@@ -29,7 +29,7 @@ I'm an undergraduate student passionate about cybersecurity, cloud technologies,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" width="45" height="45"/> 
 </p>
-
+---
 ###🧠Certifications
 - PCEP -30-02
 - Aws Certified Cloud Practitioner
