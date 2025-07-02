@@ -6,8 +6,8 @@ I'm an undergraduate student passionate about cybersecurity, cloud technologies,
 
 ### 👨🏾‍💻 About Me
 
-- 🛡️ I'm interested in Cybersecurity, Cloud Security, and Frontend Web Development  
-- 🌱 Currently learning AWS, Splunk, and React  
+- 🛡️ I'm interested in Cybersecurity and Cloud Security 
+- 🌱 Currently learning AWS, Splunk, and Linux
 - 🔍 Actively building projects to deepen my understanding of real-world threats and automation  
 - 📬 You can reach me on [LinkedIn](www.linkedin.com/in/doladejo)  
 ---
