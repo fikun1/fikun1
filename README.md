@@ -1,38 +1,96 @@
-## Hello, I am David 👋🏾
+<h1 align="center">Hello, I’m David 👋</h1>
 
-I'm an undergraduate student passionate about cybersecurity, cloud technologies, and the way the world is changing with artificial intelligence.I started my background in technology with python(basic scripting),html and css. Lately, I have Currently learning by building — with a focus on practical tools, automation, and clean interfaces.
-
----
-
-### 👨🏾‍💻 About Me
-
-- 🛡️ I'm interested in Cybersecurity and Cloud Security 
-- 🌱 Currently learning AWS, Splunk, and Linux
-- 🔍 Actively building projects to deepen my understanding of real-world threats and automation  
-- 📬 You can reach me on [LinkedIn](www.linkedin.com/in/doladejo)  
----
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
- 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45"/>   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg"width="45" height="45" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="45" height="45"/>
-           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
- 
+<p align="center">
+    💻 Cybersecurity & Cloud Enthusiast | 🛠️ Practical Builder | 🧠 Lifelong Learner<br>
+    📍 Canada | 🌐 University of Manitoba | 🏗️ Building tools, automations, and cleaner systems
 </p>
+
 ---
 
-🧠Certifications
-- PCEP -30-02
-- Aws Certified Cloud Practitioner
-- Aws Solutions Architect Associate
-- Comptia Cybersecurity Analyst(Cysa+) [Planned 2026]
+### 🔍 About Me
+- 🛡️ Focused on **Cybersecurity** and **Cloud Security**
+- 🧠 Learning **AWS**, **Splunk**, and **Linux** daily
+- 🔧 Building practical projects to understand real-world threats and automation
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-link)
+
+---
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+</p>
+
+- Python (PCEP Certified – scripting, automation)
+- JavaScript (Frontend logic and interactions)
+- Bash & PowerShell (Scripting, automation)
+- HTML/CSS (Web interface and design)
+
+---
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" />
+</p>
+
+- **AWS** (EC2, S3, IAM, CloudTrail – CCP & SAA Certified)
+- Docker & Kubernetes (Basic container skills)
+- Terraform (Infrastructure as Code)
+
+---
+
+### 🛡️ Cybersecurity & Blue Team Tools
+
+- Splunk (Learning with TryHackMe + preparing for certification)
+- Nmap, Wireshark, Snort, Metasploit (Basic familiarity)
+- TryHackMe (Labs & SOC Level 1)
+- Linux System Monitoring & Log Analysis
+
+---
+
+### ⚙️ Development Tools & OS
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+</p>
+
+- Git & GitHub (Version control)
+- VS Code, Jupyter, Terminal workflows
+- Linux (Ubuntu, Kali), macOS & Windows
+
+---
+
+### 📜 Certifications
+
+- ✅ PCEP – Certified Entry-Level Python Programmer
+- ✅ AWS Certified Cloud Practitioner
+- ✅ AWS Solutions Architect Associate *(2025)*
+- 🎯 Splunk Core Certified User *(in progress)*
+- 🎯 TryHackMe SOC Level 1 *(in progress)*
+- 🎯 CompTIA Security+ *(self-study ongoing)*
+
+---
+
+### 🚀 Currently Learning
+
+- 📈 Splunk Dashboards & SOC Automation
+- 🧩 AWS Security Best Practices
+- 🔍 Linux Log Forensics & Threat Detection
+- 🛠️ Python-based CLI Tools for Security Tasks
+
+---
+
+> 📌 Always learning, always building — focused on tools, not just theory.
+
+
