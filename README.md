@@ -1,17 +1,16 @@
 <h1 align="center">Hello, I’m David 👋</h1>
 
 <p align="center">
-    💻 Cybersecurity & Cloud Enthusiast | 🛠️ Practical Builder | 🧠 Lifelong Learner<br>
-    📍 Canada | 🌐 University of Manitoba | 🏗️ Building tools, automations, and cleaner systems
+    💻 Cybersecurity & Cloud Enthusiast | 🛠️ Practical Builder | Actively Learning and Implementing.
 </p>
 
 ---
 
 ### 🔍 About Me
 - 🛡️ Focused on **Cybersecurity** and **Cloud Security**
-- 🧠 Learning **AWS**, **Splunk**, and **Linux** daily
+- 🧠 Learning **Security**, **Cloud** daily
 - 🔧 Building practical projects to understand real-world threats and automation
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-link)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/doladejo)
 
 ---
 
@@ -25,10 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
 </p>
 
-- Python (PCEP Certified – scripting, automation)
-- JavaScript (Frontend logic and interactions)
-- Bash & PowerShell (Scripting, automation)
-- HTML/CSS (Web interface and design)
 
 ---
 
@@ -41,18 +36,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" />
 </p>
 
-- **AWS** (EC2, S3, IAM, CloudTrail – CCP & SAA Certified)
-- Docker & Kubernetes (Basic container skills)
-- Terraform (Infrastructure as Code)
-
 ---
 
 ### 🛡️ Cybersecurity & Blue Team Tools
 
-- Splunk (Learning with TryHackMe + preparing for certification)
+- Linux System Monitoring & Log Analysis
+- Splunk 
 - Nmap, Wireshark, Snort, Metasploit (Basic familiarity)
 - TryHackMe (Labs & SOC Level 1)
-- Linux System Monitoring & Log Analysis
+- HackTheBox (Labs)
+
 
 ---
 
@@ -72,25 +65,14 @@
 ---
 
 ### 📜 Certifications
-
+- 🎯 CompTIA Cybersecurity Analyst+ (Cysa) *(self-study ongoing)*
 - ✅ PCEP – Certified Entry-Level Python Programmer
 - ✅ AWS Certified Cloud Practitioner
-- ✅ AWS Solutions Architect Associate *(2025)*
-- 🎯 Splunk Core Certified User *(in progress)*
-- 🎯 TryHackMe SOC Level 1 *(in progress)*
-- 🎯 CompTIA Security+ *(self-study ongoing)*
+- ✅ AWS Solutions Architect Associate
+
+
 
 ---
 
-### 🚀 Currently Learning
-
-- 📈 Splunk Dashboards & SOC Automation
-- 🧩 AWS Security Best Practices
-- 🔍 Linux Log Forensics & Threat Detection
-- 🛠️ Python-based CLI Tools for Security Tasks
-
----
-
-> 📌 Always learning, always building — focused on tools, not just theory.
 
 
