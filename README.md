@@ -1,15 +1,16 @@
 <h1 align="center">Hello, I’m David 👋</h1>
 
 <p align="center">
-    💻 Cybersecurity & Cloud Enthusiast | 🛠️ Practical Builder | Actively Learning and Implementing.
+    💻 Cybersecurity & Cloud Security| Actively Learning and Implementing.
 </p>
 
 ---
 
 ### 🔍 About Me
-- 🛡️ Focused on **Cybersecurity** and **Cloud Security**
-- 🧠 Learning **Security**, **Cloud** daily
+- 🛡️ Focused on Cybersecurity and Cloud Security
+- 🧠 Learning Security, Cloud and Artificial Intelligence daily
 - 🔧 Building practical projects to understand real-world threats and automation
+- 👨🏾‍🎓 Undergraduate Student
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/doladejo)
 
 ---
@@ -20,8 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
 </p>
 
 
@@ -46,23 +45,6 @@
 - TryHackMe (Labs & SOC Level 1)
 - HackTheBox (Labs)
 
-
----
-
-### ⚙️ Development Tools & OS
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-</p>
-
-- Git & GitHub (Version control)
-- VS Code, Jupyter, Terminal workflows
-- Linux (Ubuntu, Kali), macOS & Windows
-
----
 
 ### 📜 Certifications
 - 🎯 CompTIA Cybersecurity Analyst+ (Cysa) *(self-study ongoing)*
