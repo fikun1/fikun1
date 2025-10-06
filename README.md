@@ -39,13 +39,27 @@
 
 ### 🛡️ Cybersecurity & Blue Team Tools
 
-- Linux System Monitoring & Log Analysis
-- Splunk 
-- Nmap, Wireshark, Snort, Metasploit (Basic familiarity)
-- TryHackMe (Labs & SOC Level 1)
-- HackTheBox (Labs)
+**🔍 Security Monitoring & SIEM**
+- Microsoft Sentinel & Log Analytics (KQL Queries, Dashboards, Alert Rules)
+- Splunk (SPL Queries, Dashboards, Detection Correlation)
 
+**💻 System & Endpoint Monitoring**
+- Linux Log Analysis (`syslog`, `journalctl`, `auditd`)
+- Windows Event Log Analysis (Event Viewer, EventID 4624/4625 tracking)
 
+**🌐 Network & Traffic Analysis**
+- Wireshark (Packet Capture & Protocol Analysis)
+- Nmap (Network Discovery & Service Enumeration)
+- Snort (Intrusion Detection & Signature Tuning)
+
+**🧠 Offensive Tools for Defensive Simulation**
+- Metasploit (Basic Exploit Simulation)
+- Nmap Scans for Reconnaissance Testing
+
+**🧪 Practical Labs & Continuous Learning**
+- TryHackMe (SOC Level 1 Path, Detection Labs)
+- HackTheBox (Blue & Red Team Labs)
+---
 ### 📜 Certifications
 - 🎯 CompTIA Cybersecurity Analyst+ (Cysa) *(self-study ongoing)*
 - ✅ PCEP – Certified Entry-Level Python Programmer
