@@ -61,7 +61,7 @@
 - HackTheBox (Blue & Red Team Labs)
 ---
 ### 📜 Certifications
-- 🎯 CompTIA Cybersecurity Analyst+ (Cysa) *(self-study ongoing)*
+- 🎯 CompTIA Security+ *(self-study ongoing)*
 - ✅ PCEP – Certified Entry-Level Python Programmer
 - ✅ AWS Certified Cloud Practitioner
 - ✅ AWS Solutions Architect Associate
